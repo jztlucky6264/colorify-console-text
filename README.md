@@ -1,1 +1,1 @@
-# typing words library
+# Colorify-Console-Text

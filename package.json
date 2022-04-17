@@ -1,0 +1,30 @@
+{
+  "name": "colorify_console",
+  "version": "1.0.0",
+  "description": "A library to make console beautiful",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jztlucky6264/typing-words.git"
+  },
+  "keywords": [
+    "color effect to text"
+  ],
+  "author": "Lucky Yadav <luckyyadav6264@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jztlucky6264/typing-words/issues"
+  },
+  "homepage": "https://github.com/jztlucky6264/typing-words#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
